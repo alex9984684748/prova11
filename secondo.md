@@ -1,10 +1,10 @@
 ## Il mondo della tecnologia
 
-## La tecnologia fa ormai parte della nostra vita quotidiana. Utilizziamo computer, smartphone e tablet per studiare, lavorare e comunicare.
+# La tecnologia fa ormai parte della nostra vita quotidiana. Utilizziamo computer, smartphone e tablet per studiare, lavorare e comunicare.
 
-## Gli strumenti digitali
+# Gli strumenti digitali
 
-## Esistono molti strumenti che possono aiutarci nelle attività di ogni giorno.
+# Esistono molti strumenti che possono aiutarci nelle attività di ogni giorno.
 
 **Alcuni esempi sono:**
 
