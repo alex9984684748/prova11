@@ -1,4 +1,4 @@
-## Il mondo della tecnologia
+# Il mondo della tecnologia
 
 * La tecnologia fa ormai parte della nostra vita quotidiana. Utilizziamo computer, smartphone e tablet per studiare, lavorare e comunicare.
 
